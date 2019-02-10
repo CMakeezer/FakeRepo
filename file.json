@@ -1,5 +1,7 @@
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
+    "lib": "zlib",
+    "tests": "true",
+    "samples": "true",
+    "deps": "",
+    "cov": ""
 }
