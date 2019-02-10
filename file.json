@@ -1,7 +1,7 @@
 {
-    "lib": "zlib",
-    "tests": "true",
-    "samples": "true",
-    "deps": "",
-    "cov": ""
+    "library": "zlib",
+    "buildTests": "true",
+    "buildSamples": "true",
+    "dependencies": "",
+    "coverage": ""
 }
