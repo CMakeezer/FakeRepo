@@ -3,5 +3,8 @@
     "buildTests": "true",
     "buildSamples": "true",
     "dependencies": "",
-    "coverage": ""
+    "coverage": "",
+    "url": "https://github.com/CMakeezer/zlib",
+    "additionalFlags": ""
+
 }
